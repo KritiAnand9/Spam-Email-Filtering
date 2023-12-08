@@ -8,6 +8,6 @@ This is the main email spam filtering file
 
 ### Datasets :
 
-completerSpamAssassin.csv
-enronSpamSubset.csv
+completerSpamAssassin.csv, 
+enronSpamSubset.csv, 
 lingSpam.csv
